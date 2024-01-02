@@ -6,25 +6,26 @@ from collections import Counter
 monday = ['GREEN', 'YELLOW', 'GREEN', 'BROWN', 'BLUE',
          'PINK', 'BLUE', 'YELLOW', 'ORANGE', 'CREAM', 'ORANGE',
         'RED', 'WHITE', 'BLUE', 'WHITE', 'BLUE', 'BLUE', 'BLUE', 'GREEN']
-
+#given colors for Tuesday 
 tuesday = ['ARSH', 'BROWN', 'GREEN', 'BROWN', 'BLUE', 
             'BLUE', 'BLEW', 'PINK', 'PINK', 'ORANGE', 'ORANGE', 
             'RED', 'WHITE', 'BLUE', 'WHITE', 'WHITE', 'BLUE', 'BLUE', 'BLUE']
-
+#given colors for Wednesday 
 wednesday = ['GREEN', 'YELLOW', 'GREEN', 'BROWN', 'BLUE', 'PINK', 
              'RED', 'YELLOW', 'ORANGE', 'RED', 'ORANGE', 'RED', 
              'BLUE', 'BLUE', 'WHITE', 'BLUE', 'BLUE', 'WHITE', 'WHITE']
-
+#given color for Thursday 
 thursday = ['BLUE', 'BLUE', 'GREEN', 'WHITE', 'BLUE', 'BROWN', 'PINK', 
             'YELLOW', 'ORANGE', 'CREAM', 'ORANGE', 'RED', 'WHITE', 
             'BLUE', 'WHITE', 'BLUE', 'BLUE', 'BLUE', 'GREEN']
+#given colors for friday
 friday = ['GREEN', 'WHITE', 'GREEN', 'BROWN', 'BLUE', 'BLUE', 'BLACK', 
           'WHITE', 'ORANGE', 'RED', 'RED', 'RED', 'WHITE', 'BLUE', 
           'WHITE', 'BLUE', 'BLUE', 'BLUE', 'WHITE']
 
 
 
-
+#combine all days to one variable
 combine_days = monday + tuesday + wednesday + thursday + friday
 
 #For probability
