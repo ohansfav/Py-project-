@@ -5,6 +5,7 @@
 
 import random as R
 
+#to generate random binary digits
 def generate_random_binary():
     binary_digits = [str(R.randint(0, 1)) for _ in range(4)]
     binary_number = ''.join(binary_digits)
