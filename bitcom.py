@@ -1,3 +1,4 @@
+#random imported and used as R
 
 import random as R
 from collections import Counter
