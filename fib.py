@@ -2,7 +2,7 @@
 #write a program to sum the first 50 fibonacci sequence
 
 def fibonacci_sum(n):
-    fib_sequence = [0, 1]  # Initialize with the first two Fibonacci numbers
+    fib_sequence = [0, 1]  # Initialize with the first two Fibonacci numbers together
     sum_fib = 1  # Initialize the sum with the second Fibonacci number
 
     for i in range(2, n):
