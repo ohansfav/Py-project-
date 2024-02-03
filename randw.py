@@ -1,6 +1,6 @@
 
 #program that generates random 4 digits number of 0's and 1's
-#and convert the generated number to base 10
+#and convert the generated number to base 10...
 #The random is imported and used as R in the program 
 
 
