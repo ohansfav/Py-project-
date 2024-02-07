@@ -3,7 +3,7 @@
 
 def fibonacci_sum(n):
     fib_sequence = [0, 1]  # Initialize with the first two Fibonacci numbers together
-    sum_fib = 1  # Initialize the sum with the second Fibonacci number
+    sum_fib = 1  # Initialize the sum with the second Fibonacci number...
 
     for i in range(2, n):
         next_fib = fib_sequence[i-1] + fib_sequence[i-2]
