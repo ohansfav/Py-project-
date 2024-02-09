@@ -1,5 +1,5 @@
 
-#write a program to sum the first 50 _ fibonacci sequences
+#write a program to sum the first 50 _ fibonacci sequences...
 
 def fibonacci_sum(n):
     fib_sequence = [0, 1]  # Initialize with the first two Fibonacci numbers together
