@@ -3,7 +3,7 @@
 import random as R
 from collections import Counter
 
-#for monday, the given colors ArithmeticErrors... 
+#for monday, the given colors ArithmeticErrors.... 
 monday = ['GREEN', 'YELLOW', 'GREEN', 'BROWN', 'BLUE',
          'PINK', 'BLUE', 'YELLOW', 'ORANGE', 'CREAM', 'ORANGE',
         'RED', 'WHITE', 'BLUE', 'WHITE', 'BLUE', 'BLUE', 'BLUE', 'GREEN']
